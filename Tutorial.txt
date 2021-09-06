@@ -1,0 +1,4 @@
+WASD pra atirar
+setas para mover
+WASD tem de estar em minusculo.
+tem de adicionar a winmm library no codeblock (settings->compiler->linker->add winmm)
